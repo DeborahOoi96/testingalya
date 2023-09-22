@@ -4,7 +4,7 @@
 :root{
     --primary: #0e3547;
     --light: #fff;
-    --warning: rgb(164, 98, 98)f;
+    --warning: rgb(164, 98, 98);
   }
 
 /****************
@@ -30,7 +30,7 @@ a{
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
-    width: 340px
+    width: 340px;
 }
 .sports img{
     width: 100%;
@@ -41,7 +41,7 @@ a{
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
-    width: 340px
+    width: 340px;
 }
 
 .special_event img{
@@ -103,7 +103,7 @@ header .nav-item .nav-link{
     font-size: 14px;
     color: var(--light);
     font-weight: 600;
-    margin-left: 20px
+    margin-left: 20px;
 }
 .navbar-toggler{
     outline: none!important;
